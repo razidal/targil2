@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//targil2
 public class TestThreadCheckArray {
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
